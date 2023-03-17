@@ -27,3 +27,4 @@ This repository is licensed under the MIT License. Please see the LICENSE.md fil
 If you have any questions or concerns about this aassignments, please contact the assignment owner:  
 - [Boris Dvorkin](https://github.com/worthant)  
 - [Max Barsukov](https://github.com/maxbarsukov)
+- [Sergey Nazemtsev](https://github.com/sergeyprohaker)

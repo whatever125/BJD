@@ -28,3 +28,4 @@ If you have any questions or concerns about this aassignments, please contact th
 - [Boris Dvorkin](https://github.com/worthant)  
 - [Max Barsukov](https://github.com/maxbarsukov)
 - [Sergey Nazemtsev](https://github.com/sergeyprohaker)
+- [Khabner Georgiy](https://github.com/SugarBooba)

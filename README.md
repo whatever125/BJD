@@ -29,3 +29,4 @@ If you have any questions or concerns about this assignments, please contact the
 - [Max Barsukov](https://github.com/maxbarsukov)
 - [Sergey Nazemtsev](https://github.com/sergeyprohaker)
 - [Khabner Georgiy](https://github.com/SugarBooba)
+- [Kolmakov Dmitry](https://github.com/whatever125)
